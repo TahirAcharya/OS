@@ -33,18 +33,15 @@ Module 1- ch-2-V2: [Link](https://docs.google.com/presentation/d/1SzKSyyd4E6jatn
 
 Below is a quick-access index to key files in this repository. Click on any document to view it directly.
 
-| Folder | Document Name | Type / Format | Link |
-|:-------|:---------------|:---------------|:------|
-| **Book** | OS_Reference_Textbook.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/Book/OS_Reference_Textbook.pdf) |
-| **Book** | Operating_System_Notes.docx | DOCX | [View File](https://github.com/TahirAcharya/OS/blob/main/Book/Operating_System_Notes.docx) |
-| **Lab** | OS_Lab_Manual.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/Lab/OS_Lab_Manual.pdf) |
-| **Lab** | Experiment_List.docx | DOCX | [View File](https://github.com/TahirAcharya/OS/blob/main/Lab/Experiment_List.docx) |
-| **PPTs** | Module1_Introduction_to_OS.pptx | PPTX | [View File](https://github.com/TahirAcharya/OS/blob/main/PPTs/Module1_Introduction_to_OS.pptx) |
-| **PPTs** | Module2_Process_Management.pptx | PPTX | [View File](https://github.com/TahirAcharya/OS/blob/main/PPTs/Module2_Process_Management.pptx) |
-| **Scheduling_Algorithms** | Scheduling_Theory.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/Scheduling_Algorithms/Scheduling_Theory.pdf) |
-| **Memory_Management** | Memory_Management_Notes.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/Memory_Management/Memory_Management_Notes.pdf) |
-| **Deadlock** | Deadlock_Concepts.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/Deadlock/Deadlock_Concepts.pdf) |
-| **File_Management** | File_System_Notes.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/File_Management/File_System_Notes.pdf) |
+
+- **[Book/](https://github.com/TahirAcharya/OS/tree/main/Book)**: Reference textbooks and reading material.  
+- **[Lab/](https://github.com/TahirAcharya/OS/tree/main/Lab)**: Practical lab exercises, experiments and manuals.  
+- **[PPTs/](https://github.com/TahirAcharya/OS/tree/main/PPTs)**: Lecture slides and presentation material for sessions.  
+- **[Scheduling_Algorithms/](https://github.com/TahirAcharya/OS/tree/main/Scheduling_Algorithms)**: Source code and explanations for process-scheduling techniques.  
+- **[Memory_Management/](https://github.com/TahirAcharya/OS/tree/main/Memory_Management)**: Notes and code on memory allocation, paging, segmentation, fragmentation.  
+- **[Deadlock/](https://github.com/TahirAcharya/OS/tree/main/Deadlock)**: Tutorials and code around deadlock detection, avoidance, prevention.  
+- **[File_Management/](https://github.com/TahirAcharya/OS/tree/main/File_Management)**: Materials covering file systems, allocation methods, directory structures.  
+
 
 
 
