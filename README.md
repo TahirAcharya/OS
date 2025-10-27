@@ -1,17 +1,17 @@
-Module 1- ch-1: [Link](https://docs.google.com/presentation/d/1PkiFAAHL4q7UAi9jkXfaF31r-pfXwkL6/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
-
-Module 1- ch-2 [Link](https://docs.google.com/presentation/d/1SzKSyyd4E6jatnVnZGukljUPfMLJCXCH/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 # 🧠 Operating Systems (OS) – Concepts & Implementation
 
-Welcome to the **Operating Systems Repository** by **Mohammad Tahir Mirji**, Assistant Professor – AIML Department, **Acharya Institute of Technology**.  
-This repository is curated for academic and practical understanding of **Operating System fundamentals, algorithms, and hands-on experiments**.
+Welcome to the **Operating Systems Repository** maintained by **Mohammad Tahir Mirji**, Assistant Professor – AIML Department, **Acharya Institute of Technology**.  
+This repository is curated for academic and practical understanding of **Operating System fundamentals, algorithms, and hands-on experiments of lab programs**.
 
+Module 1- ch-1-V1: [Link](https://docs.google.com/presentation/d/1PkiFAAHL4q7UAi9jkXfaF31r-pfXwkL6/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
+
+Module 1- ch-2-V2: [Link](https://docs.google.com/presentation/d/1SzKSyyd4E6jatnVnZGukljUPfMLJCXCH/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 ---
 
 ## 📘 Repository Overview
 
 This repository is a collection of:
-- Operating System algorithms implemented in **C / C++ / Python**.
+- Operating System algorithms implemented in **C**.
 - Demonstrations of **process scheduling**, **memory management**, **deadlock handling**, and **file management**.
 - Course-aligned lab programs and documentation for undergraduate engineering students.
 
@@ -37,6 +37,8 @@ OS/
 │   ├── FileAllocation.c
 │   └── DirectoryStructure.c
 └── README.md
+```
+
 ⚙️ Topics Covered
 Module	Topic	Description
 1	Process Management	Process creation, scheduling, synchronization
