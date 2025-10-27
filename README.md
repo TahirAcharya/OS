@@ -1,121 +1,76 @@
 # 🧠 Operating Systems (OS) – Concepts & Implementation
-
-Welcome to the **Operating Systems Repository** maintained by **Mohammad Tahir Mirji**, Assistant Professor – AIML Department, **Acharya Institute of Technology**.  
 This repository is curated for academic and practical understanding of **Operating System fundamentals, algorithms, and hands-on experiments of lab programs**.
+ 
+## 📘 Repository Overview
+It is designed to aid both **faculty and students** in academic preparation, lab execution, and conceptual understanding of OS fundamentals.
 
+---
 Module 1- ch-1-V1: [Link](https://docs.google.com/presentation/d/1PkiFAAHL4q7UAi9jkXfaF31r-pfXwkL6/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
 Module 1- ch-2-V2: [Link](https://docs.google.com/presentation/d/1SzKSyyd4E6jatnVnZGukljUPfMLJCXCH/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
+
+## 📖 Book Resources
+
+📂 **[View Folder → Book](https://github.com/TahirAcharya/OS/tree/main/Book)**  
+Includes:
+- Reference eBooks, textbooks, and study material.
+- OS concepts aligned with VTU/AIT curriculum.
+- Supplementary reading for deeper understanding.
+
 ---
+## 🧪 Lab Programs & Manuals
 
-## 📘 Repository Overview
-
-This repository is a collection of:
-- Operating System algorithms implemented in **C**.
-- Demonstrations of **process scheduling**, **memory management**, **deadlock handling**, and **file management**.
-- Course-aligned lab programs and documentation for undergraduate engineering students.
+📂 **[View Folder → Lab](https://github.com/TahirAcharya/OS/tree/main/Lab)**  
+Includes:
+- Complete set of **Operating System lab experiments**.
+- Lab manuals, algorithms, and observation records.
+- Student templates for internal lab submissions.
 
 ---
+## 📊 Presentation Slides
 
-## 🧩 Folder Structure
+📂 **[View Folder → PPTs](https://github.com/TahirAcharya/OS/tree/main/PPT\'s)**  
+Includes:
+- Lecture presentation slides (PPTs) used for classroom instruction.
+- Visual aids explaining OS architecture, process management, and memory operations.
 
+---
+## Window Subsystem for Linux(Ubuntu)
+** Installation of WSL Ubuntu-20.04 **
+open cmd prompt to enter commands
+
+● Open “Command Prompt” as administrator
+● List available distributions using
 ```bash
-OS/
-├── Scheduling_Algorithms/
-│   ├── FCFS.c
-│   ├── SJF.c
-│   ├── RoundRobin.c
-│   └── PriorityScheduling.c
-├── Memory_Management/
-│   ├── FirstFit.c
-│   ├── BestFit.c
-│   └── WorstFit.c
-├── Deadlock/
-│   ├── BankersAlgorithm.c
-│   └── ResourceAllocationGraph.c
-├── File_Management/
-│   ├── FileAllocation.c
-│   └── DirectoryStructure.c
-└── README.md
+wsl --list --online
 ```
-
-⚙️ Topics Covered
-Module	Topic	Description
-1	Process Management	Process creation, scheduling, synchronization
-2	Memory Management	Allocation, fragmentation, paging, segmentation
-3	File System	File operations, allocation methods
-4	Deadlocks	Detection, avoidance, and prevention
-5	I/O Systems	Device management, buffering, spooling
-
-🧪 Sample Program – FCFS Scheduling
-
+● Install Ubuntu-20.04 distro 
 ```bash
-#include <stdio.h>
-int main() {
-    int n, bt[20], wt[20], tat[20];
-    float awt = 0, atat = 0;
-    printf("Enter total number of processes: ");
-    scanf("%d", &n);
-    printf("Enter Burst Time for each process:\n");
-    for(int i = 0; i < n; i++) {
-        printf("P[%d]: ", i+1);
-        scanf("%d", &bt[i]);
-    }
-    wt[0] = 0;
-    for(int i = 1; i < n; i++)
-        wt[i] = wt[i-1] + bt[i-1];
-    for(int i = 0; i < n; i++) {
-        tat[i] = wt[i] + bt[i];
-        awt += wt[i];
-        atat += tat[i];
-    }
-    printf("\nProcess\tBT\tWT\tTAT\n");
-    for(int i = 0; i < n; i++)
-        printf("P[%d]\t%d\t%d\t%d\n", i+1, bt[i], wt[i], tat[i]);
-    printf("\nAverage Waiting Time: %.2f", awt/n);
-    printf("\nAverage Turnaround Time: %.2f\n", atat/n);
-    return 0;
-}
+wsl --install -d Ubuntu-20.04
+sudo apt install gcc
 ```
-💡 Learning Objectives
-Understand core principles of operating systems.
-
-Simulate various scheduling and memory management algorithms.
-
-Implement deadlock detection and avoidance techniques.
-
-Strengthen problem-solving and programming skills in C/C++.
-
-🎓 Academic Context
-This repository supports the Operating Systems Laboratory course under VTU Curriculum for:
-
-B.E. – Artificial Intelligence and Machine Learning (AIML)
-
-Instructor: Mohammad Tahir Mirji
-Department: Artificial Intelligence and Machine Learning
-Institution: Acharya Institute of Technology, Bengaluru
-
-📊 How to Use
-Clone the repository
+● Update linux packages
 ```bash
-git clone https://github.com/TahirAcharya/OS.git
+sudo apt-get update
 ```
-
-Navigate to the desired folder
+● Upgrade linux packages
 ```bash
-cd OS/Scheduling_Algorithms
+sudo apt-get upgrade
 ```
-Compile and run any program
-
+● Install common developer packages:
 ```bash
-gcc FCFS.c -o FCFS
-./FCFS
+sudo apt-get install dpkg-dev cmake g++ gcc
 ```
-📜 License
-This repository is licensed under the MIT License.
-Feel free to use and adapt the code for educational purposes with proper attribution.
+● Restart your computer if needed
+
+About Author
+---
+**AUTHOR:** Mohammad Tahir Mirji  
+Assistant Professor – AIML Department  
+**Acharya Institute of Technology, Bengaluru**  
+📧 *tahir2968@acharya.ac.in* 
 
 ⭐ Star this repository if you find it helpful!
 📧 For academic queries or collaborations: tahir2968@acharya.ac.in
-
+---
 
