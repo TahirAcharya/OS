@@ -113,30 +113,12 @@ bash
 Copy code
 gcc FCFS.c -o FCFS
 ./FCFS
-🧠 Contributions
-Contributions are welcome!
-If you’d like to improve or add new OS-related programs, kindly:
-
-Fork the repository
-
-Create a new branch
-
-Commit your changes
-
-Open a pull request
 
 📜 License
 This repository is licensed under the MIT License.
 Feel free to use and adapt the code for educational purposes with proper attribution.
 
-🏫 Acknowledgments
-Special thanks to:
-
-Faculty members of AIML Department, Acharya Institute of Technology
-
-Students of CSE (Data Science) and AIML for their enthusiasm in practical learning
-
 ⭐ Star this repository if you find it helpful!
-📧 For academic queries or collaborations: tahirmirji@acharya.ac.in
+📧 For academic queries or collaborations: tahir2968@acharya.ac.in
 
 
