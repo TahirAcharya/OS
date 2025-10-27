@@ -70,12 +70,7 @@ sudo apt-get install dpkg-dev cmake g++ gcc
 ● Restart your computer if needed
 
 
-
-```
-
----
-
-**Instructor:** Mohammad Tahir Mirji  
+**AUTHOR:** Mohammad Tahir Mirji  
 Assistant Professor – AIML Department  
 **Acharya Institute of Technology, Bengaluru**  
 📧 *tahir2968@acharya.ac.in* 
