@@ -1,51 +1,14 @@
 # 🧠 Operating Systems (OS) – Concepts & Implementation
 ---
 This repository is curated for academic and practical understanding of **Operating System fundamentals, algorithms, and hands-on experiments of lab programs**.
-**Instructor:** Mohammad Tahir Mirji  
-Assistant Professor – AIML Department  
-**Acharya Institute of Technology, Bengaluru**  
-📧 *tahir2968@acharya.ac.in*  
+ 
 ## 📘 Repository Overview
-
-This repository serves as a structured collection of **Operating System** course materials, laboratory exercises, presentations, and references for undergraduate engineering students of **AIML** and **CSE (Data Science)** departments.  
 It is designed to aid both **faculty and students** in academic preparation, lab execution, and conceptual understanding of OS fundamentals.
 
 ---
 Module 1- ch-1-V1: [Link](https://docs.google.com/presentation/d/1PkiFAAHL4q7UAi9jkXfaF31r-pfXwkL6/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
 Module 1- ch-2-V2: [Link](https://docs.google.com/presentation/d/1SzKSyyd4E6jatnVnZGukljUPfMLJCXCH/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
-
-
-## 📚 Table of Contents
-
-| Section | Description |
-|:--------|:-------------|
-| [📖 Book Resources](#-book-resources) | Reference materials and textbooks related to Operating Systems |
-| [🧪 Lab Programs & Manuals](#-lab-programs--manuals) | Practical experiments, lab manuals, and hands-on exercises |
-| [📊 Presentation Slides](#-presentation-slides) | Lecture and presentation materials used during class sessions |
-| [⏱ Scheduling Algorithms](#-scheduling-algorithms) | Source code and documentation for process scheduling |
-| [🧠 Memory Management](#-memory-management) | Programs and notes related to memory allocation and paging |
-| [☠️ Deadlock Handling](#-deadlock-handling) | Algorithms for deadlock detection and avoidance |
-| [📂 File Management](#-file-management) | Concepts and implementations for file systems |
-| [📜 License & Acknowledgment](#-license--acknowledgment) | Repository license and credits |
-
-## 🗂️ Document Index Table
-
-Below is a quick-access index to key files in this repository. Click on any document to view it directly.
-
-
-- **[Book/](https://github.com/TahirAcharya/OS/tree/main/Book)**: Reference textbooks and reading material.  
-- **[Lab/](https://github.com/TahirAcharya/OS/tree/main/Lab)**: Practical lab exercises, experiments and manuals.  
-- **[PPTs/](https://github.com/TahirAcharya/OS/tree/main/PPTs)**: Lecture slides and presentation material for sessions.  
-- **[Scheduling_Algorithms/](https://github.com/TahirAcharya/OS/tree/main/Scheduling_Algorithms)**: Source code and explanations for process-scheduling techniques.  
-- **[Memory_Management/](https://github.com/TahirAcharya/OS/tree/main/Memory_Management)**: Notes and code on memory allocation, paging, segmentation, fragmentation.  
-- **[Deadlock/](https://github.com/TahirAcharya/OS/tree/main/Deadlock)**: Tutorials and code around deadlock detection, avoidance, prevention.  
-- **[File_Management/](https://github.com/TahirAcharya/OS/tree/main/File_Management)**: Materials covering file systems, allocation methods, directory structures.  
-
-
-
-
----
 
 ## 📖 Book Resources
 
@@ -76,25 +39,10 @@ Includes:
 
 ---
 
-📊 How to Use
-Clone the repository
-```bash
-git clone https://github.com/TahirAcharya/OS.git
-```
-
-Navigate to the desired folder
-```bash
-cd OS/Scheduling_Algorithms
-```
-Compile and run any program
-
-```bash
-gcc FCFS.c -o FCFS
-./FCFS
-```
-📜 License
-This repository is licensed under the MIT License.
-Feel free to use and adapt the code for educational purposes with proper attribution.
+**Instructor:** Mohammad Tahir Mirji  
+Assistant Professor – AIML Department  
+**Acharya Institute of Technology, Bengaluru**  
+📧 *tahir2968@acharya.ac.in* 
 
 ⭐ Star this repository if you find it helpful!
 📧 For academic queries or collaborations: tahir2968@acharya.ac.in
