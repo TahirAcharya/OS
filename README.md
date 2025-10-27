@@ -48,8 +48,8 @@ Module	Topic	Description
 5	I/O Systems	Device management, buffering, spooling
 
 🧪 Sample Program – FCFS Scheduling
-c
-Copy code
+
+```bash
 #include <stdio.h>
 int main() {
     int n, bt[20], wt[20], tat[20];
@@ -76,6 +76,7 @@ int main() {
     printf("\nAverage Turnaround Time: %.2f\n", atat/n);
     return 0;
 }
+```
 💡 Learning Objectives
 Understand core principles of operating systems.
 
@@ -88,11 +89,7 @@ Strengthen problem-solving and programming skills in C/C++.
 🎓 Academic Context
 This repository supports the Operating Systems Laboratory course under VTU Curriculum for:
 
-B.E. – Computer Science and Engineering (CSE)
-
 B.E. – Artificial Intelligence and Machine Learning (AIML)
-
-B.E. – Data Science (DS)
 
 Instructor: Mohammad Tahir Mirji
 Department: Artificial Intelligence and Machine Learning
@@ -100,22 +97,20 @@ Institution: Acharya Institute of Technology, Bengaluru
 
 📊 How to Use
 Clone the repository
-
-bash
-Copy code
+```bash
 git clone https://github.com/TahirAcharya/OS.git
-Navigate to the desired folder
+```
 
-bash
-Copy code
+Navigate to the desired folder
+```bash
 cd OS/Scheduling_Algorithms
+```
 Compile and run any program
 
-bash
-Copy code
+```bash
 gcc FCFS.c -o FCFS
 ./FCFS
-
+```
 📜 License
 This repository is licensed under the MIT License.
 Feel free to use and adapt the code for educational purposes with proper attribution.
