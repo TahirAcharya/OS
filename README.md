@@ -4,9 +4,6 @@ This repository is curated for academic and practical understanding of **Operati
 Assistant Professor – AIML Department  
 **Acharya Institute of Technology, Bengaluru**  
 📧 *tahir2968@acharya.ac.in*  
-
-# 🧠 Operating Systems (OS) – Concepts & Implementation
-
 ---
 
 ## 📘 Repository Overview
