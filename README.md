@@ -1,11 +1,10 @@
 # 🧠 Operating Systems (OS) – Concepts & Implementation
+---
 This repository is curated for academic and practical understanding of **Operating System fundamentals, algorithms, and hands-on experiments of lab programs**.
 **Instructor:** Mohammad Tahir Mirji  
 Assistant Professor – AIML Department  
 **Acharya Institute of Technology, Bengaluru**  
 📧 *tahir2968@acharya.ac.in*  
----
-
 ## 📘 Repository Overview
 
 This repository serves as a structured collection of **Operating System** course materials, laboratory exercises, presentations, and references for undergraduate engineering students of **AIML** and **CSE (Data Science)** departments.  
