@@ -18,8 +18,6 @@ Includes:
 - Supplementary reading for deeper understanding.
 
 ---
-
----
 ## 🧪 Lab Programs & Manuals
 
 📂 **[View Folder → Lab](https://github.com/TahirAcharya/OS/tree/main/Lab)**  
@@ -29,16 +27,12 @@ Includes:
 - Student templates for internal lab submissions.
 
 ---
----
 ## 📊 Presentation Slides
 
 📂 **[View Folder → PPTs](https://github.com/TahirAcharya/OS/tree/main/PPT\'s)**  
 Includes:
 - Lecture presentation slides (PPTs) used for classroom instruction.
 - Visual aids explaining OS architecture, process management, and memory operations.
-
----
-
 
 ---
 ## Window Subsystem for Linux(Ubuntu)
@@ -70,7 +64,6 @@ sudo apt-get install dpkg-dev cmake g++ gcc
 ● Restart your computer if needed
 ---
 
----
 
 **AUTHOR:** Mohammad Tahir Mirji  
 Assistant Professor – AIML Department  
