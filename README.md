@@ -42,11 +42,22 @@ Includes:
 
 ---
 ## Window Subsystem for Linux(Ubuntu)
+** Installation of WSL Ubuntu-20.04 **
 open cmd prompt to enter commands
 ```bash
-wsl --install
 
-sudo apt install gcc
+● Open “Command Prompt” as administrator
+● List available distributions using “wsl --list --online”
+● Install Ubuntu-20.04 distro “wsl --install -d Ubuntu-20.04”
+● sudo apt install gcc
+● Update linux packages
+sudo apt-get update
+● Upgrade linux packages “sudo apt-get upgrade” (takes few minutes)
+● Install common developer packages:
+sudo apt-get install dpkg-dev cmake g++ gcc
+● Restart your computer if needed
+
+
 
 ```
 
