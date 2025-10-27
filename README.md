@@ -6,94 +6,83 @@ This repository is curated for academic and practical understanding of **Operati
 Module 1- ch-1-V1: [Link](https://docs.google.com/presentation/d/1PkiFAAHL4q7UAi9jkXfaF31r-pfXwkL6/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
 Module 1- ch-2-V2: [Link](https://docs.google.com/presentation/d/1SzKSyyd4E6jatnVnZGukljUPfMLJCXCH/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
+# 🧠 Operating Systems (OS) – Concepts & Implementation
+
+**Instructor:** Mohammad Tahir Mirji  
+Assistant Professor – AIML Department  
+**Acharya Institute of Technology, Bengaluru**  
+📧 *tahir2968@acharya.ac.in*  
+
 ---
 
 ## 📘 Repository Overview
 
-This repository is a collection of:
-- Operating System algorithms implemented in **C**.
-- Demonstrations of **process scheduling**, **memory management**, **deadlock handling**, and **file management**.
-- Course-aligned lab programs and documentation for undergraduate engineering students.
+This repository serves as a structured collection of **Operating System** course materials, laboratory exercises, presentations, and references for undergraduate engineering students of **AIML** and **CSE (Data Science)** departments.  
+It is designed to aid both **faculty and students** in academic preparation, lab execution, and conceptual understanding of OS fundamentals.
 
 ---
 
-## 🧩 Folder Structure
+## 📚 Table of Contents
 
-```bash
-OS/
-├── Scheduling_Algorithms/
-│   ├── FCFS.c
-│   ├── SJF.c
-│   ├── RoundRobin.c
-│   └── PriorityScheduling.c
-├── Memory_Management/
-│   ├── FirstFit.c
-│   ├── BestFit.c
-│   └── WorstFit.c
-├── Deadlock/
-│   ├── BankersAlgorithm.c
-│   └── ResourceAllocationGraph.c
-├── File_Management/
-│   ├── FileAllocation.c
-│   └── DirectoryStructure.c
-└── README.md
-```
+## 🗂️ Document Index Table
 
-⚙️ Topics Covered
-Module	Topic	Description
-1	Process Management	Process creation, scheduling, synchronization
-2	Memory Management	Allocation, fragmentation, paging, segmentation
-3	File System	File operations, allocation methods
-4	Deadlocks	Detection, avoidance, and prevention
-5	I/O Systems	Device management, buffering, spooling
+Below is a quick-access index to key files in this repository. Click on any document to view it directly.
 
-🧪 Sample Program – FCFS Scheduling
+| Folder | Document Name | Type / Format | Link |
+|:-------|:---------------|:---------------|:------|
+| **Book** | OS_Reference_Textbook.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/Book/OS_Reference_Textbook.pdf) |
+| **Book** | Operating_System_Notes.docx | DOCX | [View File](https://github.com/TahirAcharya/OS/blob/main/Book/Operating_System_Notes.docx) |
+| **Lab** | OS_Lab_Manual.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/Lab/OS_Lab_Manual.pdf) |
+| **Lab** | Experiment_List.docx | DOCX | [View File](https://github.com/TahirAcharya/OS/blob/main/Lab/Experiment_List.docx) |
+| **PPTs** | Module1_Introduction_to_OS.pptx | PPTX | [View File](https://github.com/TahirAcharya/OS/blob/main/PPTs/Module1_Introduction_to_OS.pptx) |
+| **PPTs** | Module2_Process_Management.pptx | PPTX | [View File](https://github.com/TahirAcharya/OS/blob/main/PPTs/Module2_Process_Management.pptx) |
+| **Scheduling_Algorithms** | Scheduling_Theory.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/Scheduling_Algorithms/Scheduling_Theory.pdf) |
+| **Memory_Management** | Memory_Management_Notes.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/Memory_Management/Memory_Management_Notes.pdf) |
+| **Deadlock** | Deadlock_Concepts.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/Deadlock/Deadlock_Concepts.pdf) |
+| **File_Management** | File_System_Notes.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/File_Management/File_System_Notes.pdf) |
 
-```bash
-#include <stdio.h>
-int main() {
-    int n, bt[20], wt[20], tat[20];
-    float awt = 0, atat = 0;
-    printf("Enter total number of processes: ");
-    scanf("%d", &n);
-    printf("Enter Burst Time for each process:\n");
-    for(int i = 0; i < n; i++) {
-        printf("P[%d]: ", i+1);
-        scanf("%d", &bt[i]);
-    }
-    wt[0] = 0;
-    for(int i = 1; i < n; i++)
-        wt[i] = wt[i-1] + bt[i-1];
-    for(int i = 0; i < n; i++) {
-        tat[i] = wt[i] + bt[i];
-        awt += wt[i];
-        atat += tat[i];
-    }
-    printf("\nProcess\tBT\tWT\tTAT\n");
-    for(int i = 0; i < n; i++)
-        printf("P[%d]\t%d\t%d\t%d\n", i+1, bt[i], wt[i], tat[i]);
-    printf("\nAverage Waiting Time: %.2f", awt/n);
-    printf("\nAverage Turnaround Time: %.2f\n", atat/n);
-    return 0;
-}
-```
-💡 Learning Objectives
-Understand core principles of operating systems.
 
-Simulate various scheduling and memory management algorithms.
+| Section | Description |
+|:--------|:-------------|
+| [📖 Book Resources](#-book-resources) | Reference materials and textbooks related to Operating Systems |
+| [🧪 Lab Programs & Manuals](#-lab-programs--manuals) | Practical experiments, lab manuals, and hands-on exercises |
+| [📊 Presentation Slides](#-presentation-slides) | Lecture and presentation materials used during class sessions |
+| [⏱ Scheduling Algorithms](#-scheduling-algorithms) | Source code and documentation for process scheduling |
+| [🧠 Memory Management](#-memory-management) | Programs and notes related to memory allocation and paging |
+| [☠️ Deadlock Handling](#-deadlock-handling) | Algorithms for deadlock detection and avoidance |
+| [📂 File Management](#-file-management) | Concepts and implementations for file systems |
+| [📜 License & Acknowledgment](#-license--acknowledgment) | Repository license and credits |
 
-Implement deadlock detection and avoidance techniques.
+---
 
-Strengthen problem-solving and programming skills in C/C++.
+## 📖 Book Resources
 
-🎓 Academic Context
-This repository supports the Operating Systems Laboratory course under VTU Curriculum for:
+📂 **[View Folder → Book](https://github.com/TahirAcharya/OS/tree/main/Book)**  
+Includes:
+- Reference eBooks, textbooks, and study material.
+- OS concepts aligned with VTU/AIT curriculum.
+- Supplementary reading for deeper understanding.
 
-B.E. – Artificial Intelligence and Machine Learning (AIML)
+---
 
-Instructor: Mohammad Tahir Mirji
-Department: Artificial Intelligence and Machine Learning
-Institution: Acharya Institute of Technology, Bengaluru
+## 🧪 Lab Programs & Manuals
+
+📂 **[View Folder → Lab](https://github.com/TahirAcharya/OS/tree/main/Lab)**  
+Includes:
+- Complete set of **Operating System lab experiments**.
+- Lab manuals, algorithms, and observation records.
+- Student templates for internal lab submissions.
+
+---
+
+## 📊 Presentation Slides
+
+📂 **[View Folder → PPTs](https://github.com/TahirAcharya/OS/tree/main/PPTs)**  
+Includes:
+- Lecture presentation slides (PPTs) used for classroom instruction.
+- Visual aids explaining OS architecture, process management, and memory operations.
+
+---
 
 📊 How to Use
 Clone the repository
