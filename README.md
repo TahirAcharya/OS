@@ -62,9 +62,9 @@ sudo apt-get upgrade
 sudo apt-get install dpkg-dev cmake g++ gcc
 ```
 ● Restart your computer if needed
+
+About Author
 ---
-
-
 **AUTHOR:** Mohammad Tahir Mirji  
 Assistant Professor – AIML Department  
 **Acharya Institute of Technology, Bengaluru**  
