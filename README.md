@@ -1,5 +1,4 @@
 # 🧠 Operating Systems (OS) – Concepts & Implementation
----
 This repository is curated for academic and practical understanding of **Operating System fundamentals, algorithms, and hands-on experiments of lab programs**.
  
 ## 📘 Repository Overview
@@ -20,6 +19,7 @@ Includes:
 
 ---
 
+---
 ## 🧪 Lab Programs & Manuals
 
 📂 **[View Folder → Lab](https://github.com/TahirAcharya/OS/tree/main/Lab)**  
@@ -29,7 +29,7 @@ Includes:
 - Student templates for internal lab submissions.
 
 ---
-
+---
 ## 📊 Presentation Slides
 
 📂 **[View Folder → PPTs](https://github.com/TahirAcharya/OS/tree/main/PPT\'s)**  
@@ -68,7 +68,9 @@ sudo apt-get upgrade
 sudo apt-get install dpkg-dev cmake g++ gcc
 ```
 ● Restart your computer if needed
+---
 
+---
 
 **AUTHOR:** Mohammad Tahir Mirji  
 Assistant Professor – AIML Department  
@@ -77,5 +79,5 @@ Assistant Professor – AIML Department
 
 ⭐ Star this repository if you find it helpful!
 📧 For academic queries or collaborations: tahir2968@acharya.ac.in
-
+---
 
