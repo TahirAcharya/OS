@@ -39,6 +39,19 @@ Includes:
 
 ---
 
+
+---
+## Window Subsystem for Linux(Ubuntu)
+open cmd prompt to enter commands
+```bash
+wsl --install
+
+sudo apt install gcc
+
+```
+
+---
+
 **Instructor:** Mohammad Tahir Mirji  
 Assistant Professor – AIML Department  
 **Acharya Institute of Technology, Bengaluru**  
