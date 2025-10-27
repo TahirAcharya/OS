@@ -32,7 +32,7 @@ Includes:
 
 ## 📊 Presentation Slides
 
-📂 **[View Folder → PPTs](https://github.com/TahirAcharya/OS/tree/main/PPTs)**  
+📂 **[View Folder → PPTs](https://github.com/TahirAcharya/OS/tree/main/PPT\'s)**  
 Includes:
 - Lecture presentation slides (PPTs) used for classroom instruction.
 - Visual aids explaining OS architecture, process management, and memory operations.
