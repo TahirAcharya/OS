@@ -63,6 +63,33 @@ sudo apt-get install dpkg-dev cmake g++ gcc
 ```
 ● Restart your computer if needed
 
+● Create a new file with .c extention
+```bash
+nano hello.c
+```
+● Add your C code Save, exit the editor and Compile the Program
+```bash
+gcc hello.c -o hello
+```
+● To run output file
+```bash
+./hello
+
+you should seee output on screen
+```
+● Example
+```bash
+sudo apt update
+sudo apt install build-essential
+nano hello.c             # Write your code and save
+gcc hello.c -o hello     # Compiles the code
+./hello                  # Runs the program
+```
+
+
+
+
+
 About Author
 ---
 **AUTHOR:** Mohammad Tahir Mirji  
