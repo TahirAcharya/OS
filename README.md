@@ -1,17 +1,11 @@
 # 🧠 Operating Systems (OS) – Concepts & Implementation
-
-Welcome to the **Operating Systems Repository** maintained by **Mohammad Tahir Mirji**, Assistant Professor – AIML Department, **Acharya Institute of Technology**.  
 This repository is curated for academic and practical understanding of **Operating System fundamentals, algorithms, and hands-on experiments of lab programs**.
-
-Module 1- ch-1-V1: [Link](https://docs.google.com/presentation/d/1PkiFAAHL4q7UAi9jkXfaF31r-pfXwkL6/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
-
-Module 1- ch-2-V2: [Link](https://docs.google.com/presentation/d/1SzKSyyd4E6jatnVnZGukljUPfMLJCXCH/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
-# 🧠 Operating Systems (OS) – Concepts & Implementation
-
 **Instructor:** Mohammad Tahir Mirji  
 Assistant Professor – AIML Department  
 **Acharya Institute of Technology, Bengaluru**  
 📧 *tahir2968@acharya.ac.in*  
+
+# 🧠 Operating Systems (OS) – Concepts & Implementation
 
 ---
 
@@ -21,8 +15,23 @@ This repository serves as a structured collection of **Operating System** course
 It is designed to aid both **faculty and students** in academic preparation, lab execution, and conceptual understanding of OS fundamentals.
 
 ---
+Module 1- ch-1-V1: [Link](https://docs.google.com/presentation/d/1PkiFAAHL4q7UAi9jkXfaF31r-pfXwkL6/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
+
+Module 1- ch-2-V2: [Link](https://docs.google.com/presentation/d/1SzKSyyd4E6jatnVnZGukljUPfMLJCXCH/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
+
 
 ## 📚 Table of Contents
+
+| Section | Description |
+|:--------|:-------------|
+| [📖 Book Resources](#-book-resources) | Reference materials and textbooks related to Operating Systems |
+| [🧪 Lab Programs & Manuals](#-lab-programs--manuals) | Practical experiments, lab manuals, and hands-on exercises |
+| [📊 Presentation Slides](#-presentation-slides) | Lecture and presentation materials used during class sessions |
+| [⏱ Scheduling Algorithms](#-scheduling-algorithms) | Source code and documentation for process scheduling |
+| [🧠 Memory Management](#-memory-management) | Programs and notes related to memory allocation and paging |
+| [☠️ Deadlock Handling](#-deadlock-handling) | Algorithms for deadlock detection and avoidance |
+| [📂 File Management](#-file-management) | Concepts and implementations for file systems |
+| [📜 License & Acknowledgment](#-license--acknowledgment) | Repository license and credits |
 
 ## 🗂️ Document Index Table
 
@@ -42,16 +51,6 @@ Below is a quick-access index to key files in this repository. Click on any docu
 | **File_Management** | File_System_Notes.pdf | PDF | [View File](https://github.com/TahirAcharya/OS/blob/main/File_Management/File_System_Notes.pdf) |
 
 
-| Section | Description |
-|:--------|:-------------|
-| [📖 Book Resources](#-book-resources) | Reference materials and textbooks related to Operating Systems |
-| [🧪 Lab Programs & Manuals](#-lab-programs--manuals) | Practical experiments, lab manuals, and hands-on exercises |
-| [📊 Presentation Slides](#-presentation-slides) | Lecture and presentation materials used during class sessions |
-| [⏱ Scheduling Algorithms](#-scheduling-algorithms) | Source code and documentation for process scheduling |
-| [🧠 Memory Management](#-memory-management) | Programs and notes related to memory allocation and paging |
-| [☠️ Deadlock Handling](#-deadlock-handling) | Algorithms for deadlock detection and avoidance |
-| [📂 File Management](#-file-management) | Concepts and implementations for file systems |
-| [📜 License & Acknowledgment](#-license--acknowledgment) | Repository license and credits |
 
 ---
 
