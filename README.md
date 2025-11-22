@@ -7,7 +7,7 @@ It is designed to aid both **faculty and students** in academic preparation, lab
 ---
 Module 1- ch-1-V1: [Link](https://docs.google.com/presentation/d/1PkiFAAHL4q7UAi9jkXfaF31r-pfXwkL6/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
-Module 1- ch-2-V2: [Link](https://docs.google.com/presentation/d/1SzKSyyd4E6jatnVnZGukljUPfMLJCXCH/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
+Module 2-: [Link]([https://docs.google.com/presentation/d/1SzKSyyd4E6jatnVnZGukljUPfMLJCXCH/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true](https://docs.google.com/presentation/d/1m1h3zTO0XpH52KAN4iUZsEpjjZeCb9E3/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true))
 
 ## 📖 Book Resources
 
@@ -62,6 +62,33 @@ sudo apt-get upgrade
 sudo apt-get install dpkg-dev cmake g++ gcc
 ```
 ● Restart your computer if needed
+
+● Create a new file with .c extention
+```bash
+nano hello.c
+```
+● Add your C code Save, exit the editor and Compile the Program
+```bash
+gcc hello.c -o hello
+```
+● To run output file
+```bash
+./hello
+
+you should seee output on screen
+```
+● Example
+```bash
+sudo apt update
+sudo apt install build-essential
+nano hello.c             # Write your code and save
+gcc hello.c -o hello     # Compiles the code
+./hello                  # Runs the program
+```
+
+
+
+
 
 About Author
 ---
