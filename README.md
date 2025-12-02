@@ -20,6 +20,7 @@ Includes:
 ## 🧪 Lab Programs & Manuals
 
 📂 **[View Folder → Lab](https://github.com/TahirAcharya/OS/tree/main/Lab)**  
+Lab 2 [program 2](https://docs.google.com/document/d/14t0DrBAL-IxFStj30-dIBIEU9QHfHebI6W8_6C6MV4Y/edit?usp=sharing)
 Includes:
 - Complete set of **Operating System lab experiments**.
 - Lab manuals, algorithms, and observation records.
