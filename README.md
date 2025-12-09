@@ -33,9 +33,7 @@ Lab 3 [program 3](https://docs.google.com/document/d/1BK7UToWR6T90vGZwdRQmEyZEzm
 Lab 4 [program 4](https://docs.google.com/document/d/1QunlEFzMBXSXPvfv_mkyNpBCnxt8qxUM)
 
 Includes:
-- Complete set of **Operating System lab experiments**.
-- Lab manuals, algorithms, and observation records.
-- Student templates for internal lab submissions.
+- Completed **Operating System lab experiments**
 
 ---
 ## 📊 Presentation Slides
