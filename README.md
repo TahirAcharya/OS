@@ -23,7 +23,11 @@ Includes:
 ## 🧪 Lab Programs & Manuals
 
 📂 **[View Folder → Lab](https://github.com/TahirAcharya/OS/tree/main/Lab)**  
-Lab 2 [program 2](https://docs.google.com/document/d/14t0DrBAL-IxFStj30-dIBIEU9QHfHebI6W8_6C6MV4Y/edit?usp=sharing)
+
+Lab 1 [program 1](https://docs.google.com/document/d/1eDw_pgfm-P1zy3SFJVEt4HVxMmHRsMfn)
+Lab 2 [program 2](https://docs.google.com/document/d/14t0DrBAL-IxFStj30-dIBIEU9QHfHebI6W8_6C6MV4Y)
+Lab 3 [program 3](https://docs.google.com/document/d/1BK7UToWR6T90vGZwdRQmEyZEzmIm6Pl-)
+Lab 4 [program 4](https://docs.google.com/document/d/1QunlEFzMBXSXPvfv_mkyNpBCnxt8qxUM)
 Includes:
 - Complete set of **Operating System lab experiments**.
 - Lab manuals, algorithms, and observation records.
