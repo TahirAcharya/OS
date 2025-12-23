@@ -32,7 +32,7 @@ Lab 3 [program 3](https://docs.google.com/document/d/1BK7UToWR6T90vGZwdRQmEyZEzm
 
 Lab 4 [program 4](https://docs.google.com/document/d/1QunlEFzMBXSXPvfv_mkyNpBCnxt8qxUM)
 
-Lab 5[program 5](https://docs.google.com/document/d/13IJcY3xcw9CaIiRMhM3gvsNzQv7Ixkku)
+Lab 5[program 5](https://docs.google.com/document/d/1jSn0Ra4IH0jIKEA63e84QIea2WtpXKYr/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
 Includes:
 - Completed **Operating System lab experiments**
