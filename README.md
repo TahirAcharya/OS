@@ -11,6 +11,12 @@ Module 2-: [Link](https://docs.google.com/presentation/d/1m1h3zTO0XpH52KAN4iUZsE
 
 Module 3-: [Link](https://docs.google.com/presentation/d/11F5Ukycqbdnyrf1xJkVxSQjQjfLzEi_Q/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
+Module 4-: [Link](https://docs.google.com/presentation/d/1nI-SUYcUL-YtJaOdYJMHYcQH2PePXA6q/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true)
+
+Module 5-: [Link](https://docs.google.com/presentation/d/1UGyLVHmlFV-JLw-unwWk9YFzwwbXkb1M/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true)
+
+
+
 ## 📖 Book Resources
 
 📂 **[View Folder → Book](https://github.com/TahirAcharya/OS/tree/main/Book)**  
