@@ -40,6 +40,16 @@ Lab 4 [program 4](https://docs.google.com/document/d/1QunlEFzMBXSXPvfv_mkyNpBCnx
 
 Lab 5[program 5](https://docs.google.com/document/d/1jSn0Ra4IH0jIKEA63e84QIea2WtpXKYr/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
+Lab 6[program 6](https://docs.google.com/document/d/1oMJSqBQY9yIPqThPenxTz-H4GG3A6apw/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true)
+
+Lab 7[program 7](https://docs.google.com/document/d/1HdTreKeTUTXVhGVwFNX6rRnCUK20ip1Z/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true)
+
+Lab 8[program 8](https://docs.google.com/document/d/1blKfQli8abKc82xHUNP1jeHCvQnUtPPJ/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true)
+
+Lab 9[program 9](https://docs.google.com/document/d/1TFc_A9DASVE8UF40-yGYz1LrOWHPPz7J/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true)
+
+Lab 10[program 10](https://docs.google.com/document/d/1RQhbwd_5YggjNCns10yL--EJ2qJsLaL7/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true)
+
 Includes:
 - Completed **Operating System lab experiments**
 
