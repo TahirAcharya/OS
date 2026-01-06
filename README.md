@@ -25,6 +25,15 @@ Includes:
 - OS concepts aligned with VTU/AIT curriculum.
 - Supplementary reading for deeper understanding.
 
+## Module 3 Problems
+Problem solving steps bankers algorithm 
+https://youtu.be/Or40J_f2RHo?si=suwtYFhlShXE7Dwl
+
+
+
+## Module 5 Problems
+
+
 ---
 ## 🧪 Lab Programs & Manuals
 
