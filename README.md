@@ -15,6 +15,7 @@ Module 4-: [Link](https://docs.google.com/presentation/d/1nI-SUYcUL-YtJaOdYJMHYc
 
 Module 5-: [Link](https://docs.google.com/presentation/d/1UGyLVHmlFV-JLw-unwWk9YFzwwbXkb1M/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true)
 
+Module 1 cc-: [Link][https://docs.google.com/presentation/d/1UGyLVHmlFV-JLw-unwWk9YFzwwbXkb1M/edit?usp=drive_link&ouid=102189640680844426038&rtpof=true&sd=true](https://docs.google.com/presentation/d/1LHGJqdICwRygsyB2mZ5skQLp1n__ep3w/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
 
 ## 📖 Book Resources
